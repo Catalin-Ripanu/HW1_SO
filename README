@@ -1,0 +1,12 @@
+Tema 1 - SO
+Autor: Catalin-Alexandru Ripanu
+Grupa: 333CC
+Timp alocat implementarii: ~ 1 zi
+Ref: StackOverflow [1] / GitHub [2], Musl [3], Linux man page [4], C++ Ref [5].
+
+
+[1]: https://stackoverflow.com/questions/5422061/malloc-implementation
+[2]: https://github.com/andrestc/linux-prog/tree/master/ch7
+[3]: https://git.musl-libc.org/cgit/musl/tree/?id=e5d78fe8df9bd61940abcd98ad07ed69b7da4350
+[4]: https://linux.die.net/man/
+[5]: https://cplusplus.com/reference/cstring/strrchr/
